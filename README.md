@@ -6,6 +6,6 @@ In this example the GPIO that we will use are:
 ```C#
         const int LEFT_PWM_PIN = 5;
         const int RIGHT_PWM_PIN = 6;
-```C#
+```
         
 
